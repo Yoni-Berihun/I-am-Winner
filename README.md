@@ -51,8 +51,8 @@ You can paste this prompt into an AI image generator like Midjourney, DALL-E, or
 
 (Add screenshots here once generated, e.g., via placeholders:)
 
-![Screenshot of the app](https://github.com/user-attachments/assets/5e44a36f-5374-4b53-8d07-a9a30d97b0e1)
-![Another screenshot of the app](https://github.com/user-attachments/assets/c81dc1d5-91c7-43f1-b1e9-7988581e2850)
+![Screenshot of the app](image.png)
+
 
 ## Contributing
 
